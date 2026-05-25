@@ -20,6 +20,7 @@ This project provides an in-depth analysis of travel booking data for the Indian
 
 ## Project Objectives
 
+
 The project is structured to answer key business questions based on the booking and session data. Some of the core objectives include:
 1. Find the number of distinct bookings, sessions, and searches from the given data sets.
 2. Identify sessions with more than one booking.
